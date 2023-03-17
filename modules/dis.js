@@ -1,4 +1,4 @@
-function display () {
+const display = () => {
     console.log("Hello")
 }
 
